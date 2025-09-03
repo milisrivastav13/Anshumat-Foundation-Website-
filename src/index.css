@@ -1,0 +1,56 @@
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeUp {
+  animation: fadeUp 1s ease forwards;
+}
+
+.animate-fadeUp.delay-200 { animation-delay: 0.2s; }
+.animate-fadeUp.delay-400 { animation-delay: 0.4s; }
+/* Light Blue Neon Tech Theme */
+body {
+  background: #e0f7ff; /* very light blue base */
+  font-family: 'Inter', sans-serif;
+  color: #0a0a0a;
+}
+
+.bg-neon-tech {
+  background: linear-gradient(135deg, #d0f0ff 0%, #a0e0ff 100%);
+}
+
+.glow-text {
+  text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff, 0 0 20px #00f0ff;
+}
+
+.card-neon {
+  background: rgba(240, 255, 255, 0.8);
+  border: 1px solid #00f0ff;
+  box-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card-neon:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 25px #070350, 0 0 30px #100147, 0 0 40px #0e0145;
+}
+@keyframes gradient-xy {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient-xy {
+  background-size: 200% 200%;
+  animation: gradient-xy 10s ease infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; }
+}
+
+.animate-pulse-slow {
+  animation: pulse 6s infinite;
+}
+
