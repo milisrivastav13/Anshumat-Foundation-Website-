@@ -35,7 +35,7 @@ This is a modern, interactive, and visually engaging website for Anshumat Founda
 
 ✨ Smooth Animations – Fade-up and hover effects for engaging user experience.
 
-##⚙️ Setup Instructions:
+## ⚙️ Setup Instructions:
 
 📥 Clone the repository:
 
@@ -60,7 +60,7 @@ npm run dev
 🌐 Open in browser:
 Visit 👉 http://localhost:5173
 
-##📌 Usage:
+## 📌 Usage:
 
 🏠 Home → Explore the overview & hero section.
 
@@ -74,6 +74,14 @@ Visit 👉 http://localhost:5173
 https://github.com/milisrivastav13/Anshumat-Foundation-Website-
 
 ## 📸 Screenshots:
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d8c81b02-0fd4-460e-bddd-d223a680e277" />
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/7bc09ec0-4f8b-4cfd-a2ef-503d60555790" />
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/2178acc7-fe25-40b3-8a7d-f0dea9c4809f" />
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/3143bb5e-791f-453e-a641-11d229e46272" />
+
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/06d98b3b-955f-45d1-8a07-50b40d81da94" />
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/41517b97-29bc-4767-a032-c2a0aa7335d0" />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/0aa33105-c124-499f-b6d8-ca1edbecdd45" />
 
 
 
